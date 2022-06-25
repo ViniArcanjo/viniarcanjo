@@ -23,4 +23,4 @@
 
 </br>
 
-![Snake animation](https://github.com/viniarcanjo)
+![Snake animation](https://github.com/viniarcanjo/viniarcanjo/blob/output/github-contribution-grid-snake.svg)
