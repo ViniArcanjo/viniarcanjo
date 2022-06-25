@@ -1,4 +1,4 @@
-<h3>👋 Hi there, my name is Vinicius Arcanjo</h3>
+<h3>👋 Hi there, my name is Vinicius Arcanjo!</h3>
 
 </br>
 
